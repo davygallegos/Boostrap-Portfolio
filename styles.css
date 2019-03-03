@@ -1,0 +1,19 @@
+#navbarSupportedContent {
+   
+}
+.navbar-nav {
+    margin: 0 0 0 auto;
+}
+p {
+    display: flex;
+    flex-wrap: unset;
+    }
+.col-md-3 {
+    position: relative;
+    margin-bottom: 3%;
+}
+.caption_post {
+    background-color: teal;
+    position: absolute;
+    
+}
